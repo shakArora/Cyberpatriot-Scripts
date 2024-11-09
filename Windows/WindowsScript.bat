@@ -142,4 +142,9 @@ reg ADD HKLM\SYSTEM\CurrentControlSet\services\LanmanServer\Parameters /v NullSe
 REM Allow to use Machine ID for NTLM
 reg ADD HKLM\SYSTEM\CurrentControlSet\Control\Lsa /v UseMachineId /t REG_DWORD /d 0 /f
 
+echo do ftp
+echo do updates
+echo do rdp
+echo of course if readme says to keep then keep
+
 goto:EOF
