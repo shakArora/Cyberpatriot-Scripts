@@ -13,3 +13,13 @@ find /home -name '*.gif' -type f -delete
 find /home -name '*.png' -type f -delete
 find /home -name '*.jpg' -type f -delete
 find /home -name '*.jpeg' -type f -delete
+find /home -name '*.tar.gz' -type f -delete
+find /home -name '*.appImage' -type f -delete
+find /home -name '*.exe' -type f -delete
+find /home -name '*.html' -type f -delete
+find /home -name '*.js' -type f -delete
+find /home -name '*.jpeg' -type f -delete
+find /home -name '*.cpp' -type f -delete
+find /home -name '*.py' -type f -delete
+find /home -name '*.java' -type f -delete
+find /home -name '*.class' -type f -delete
