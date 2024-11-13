@@ -1,0 +1,4 @@
+su #install sudo
+apt --version
+sudo apt-get update
+sudo apt-get install --reinstall apt
