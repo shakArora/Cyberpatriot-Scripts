@@ -6,7 +6,7 @@ echo "Starting Overpowered Linux setup for CyberPatriot..."
 
 # Step 1: Update the system and install essential tools
 echo "Updating the system and installing essential security tools..."
-apt update && apt upgrade -y
+# apt update && apt upgrade -y
 apt install -y build-essential curl wget git vim htop net-tools ufw fail2ban lynis auditd nmap
 
 # Step 2: System optimization (performance tweaks)
