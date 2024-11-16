@@ -1,0 +1,34 @@
+Common CyberPatriot Linux Forensics Questions
+
+CyberPatriot Linux forensics questions often involve tasks like:
+
+Identifying User Activity:
+
+Last login: Using the last command to determine the last time a user logged in.
+User history: Using the .bash_history file to view commands executed by a user.
+File access: Using ls -la to inspect file permissions, ownership, and modification times.
+Analyzing File Systems:
+
+File permissions: Using ls -l to identify file permissions and ownership.
+File ownership: Using ls -l or chown to determine file ownership.
+File modification times: Using ls -l or stat to determine file creation, modification, and access times.
+Network Activity:
+
+Network connections: Using netstat or lsof to identify active network connections.
+Network traffic: Using tools like tcpdump or wireshark to analyze network packets.
+System Logs:
+
+System logs: Using journalctl or dmesg to view system logs.
+Application logs: Inspecting logs specific to applications like Apache, Nginx, or MySQL.
+Malware and Intrusion Detection:
+
+Identifying malicious processes: Using ps aux or top to identify suspicious processes.
+Analyzing network traffic: Using tcpdump or wireshark to look for signs of malicious activity.
+Checking system files: Using md5sum or sha256sum to verify file integrity.
+Tips for Answering Forensics Questions:
+
+Read the Prompt Carefully: Understand the specific question and what information is required.
+Use the Right Tools: Choose the appropriate tools for the task.
+Interpret the Output: Understand the output of commands and logs.
+Practice Regularly: Consistent practice is key to mastering forensics skills.
+Pay Attention to Details: Small details can often lead to the correct answer.
