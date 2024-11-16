@@ -1,0 +1,39 @@
+Step 1: Open a Terminal
+Press Ctrl + Alt + T to open the terminal in Linux Mint.
+Step 2: Create a Directory for Your Scripts
+
+
+Navigate to the desired location where you want to create the directory. Use the cd command:
+
+cd ~/Documents
+This command moves you to the "Documents" folder in your home directory.
+
+Create a new directory:
+
+mkdir scripts
+This creates a directory named scripts.
+
+Move into the directory:
+
+cd scripts
+Step 3: Create a Script
+Use a text editor to create the script. You can use nano, a simple terminal-based text editor:
+
+nano myscript.sh
+Write your script. For example, a simple "Hello, World!" script:
+
+#!/bin/bash
+echo "Hello, World!"
+Save and exit:
+
+Press Ctrl + O to save the file.
+Press Enter to confirm the filename.
+Press Ctrl + X to exit nano.
+Step 4: Make the Script Executable
+Use the chmod command to make your script executable:
+
+chmod +x myscript.sh
+Step 5: Run the Script
+Execute the script using the following command:
+
+./myscript.sh
