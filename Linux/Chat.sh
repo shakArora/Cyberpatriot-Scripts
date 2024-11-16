@@ -1,6 +1,6 @@
 #!/bin/bash
 # Overpowered CyberPatriot Linux Setup Script
-# This script will focus on making your system secure, optimized, and efficient for CyberPatriot challenges.
+# This script will focus on making the system secure, optimized, and efficient for CyberPatriot challenges.
 
 echo "Starting Overpowered Linux setup for CyberPatriot..."
 
