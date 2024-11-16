@@ -7,7 +7,7 @@ is_installed() {
 
 # Update system packages and apps
 echo "Updating system and installed applications..."
-sudo apt update -y && sudo apt upgrade -y
+# sudo apt update -y && sudo apt upgrade -y
 
 # Update specific third-party apps (e.g., Google Chrome)
 if is_installed "google-chrome-stable"; then
