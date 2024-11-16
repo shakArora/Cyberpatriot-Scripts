@@ -31,6 +31,7 @@ suspicious_apps=(
     "minetest"      # Game
     "supertuxkart"  # Game
     "wine"          # Often used for running games and other Windows apps
+    "reminna"       # Potentially unsafe vm
 )
 
 echo "Checking for suspicious or unnecessary applications..."
