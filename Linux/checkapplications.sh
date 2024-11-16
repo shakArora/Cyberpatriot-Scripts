@@ -41,8 +41,8 @@ sus_found=0
 for app in "${suspicious_apps[@]}"; do
     if is_installed "$app"; then
         echo "Suspicious application found: $app"
-        echo "Removing $app..."
-        sudo apt remove --purge -y $app
+        # echo "Removing $app..."
+        # sudo apt remove --purge -y $app
         sus_found=1
     fi
 done
