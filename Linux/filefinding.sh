@@ -1,4 +1,4 @@
-sudo apt update && sudo apt upgrade
+# sudo apt update && sudo apt upgrade
 find . -name '*.mp3' -type f -print
 find . -name '*.mov' -type f -print
 find . -name '*.mp4' -type f -print
