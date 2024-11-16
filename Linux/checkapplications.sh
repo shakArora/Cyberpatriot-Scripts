@@ -20,7 +20,6 @@ fi
 # Define a list of potentially suspicious or unnecessary applications
 suspicious_apps=(
     "telnet"        # Unencrypted remote login utility
-    "ftp"           # Unencrypted file transfer protocol
     "nmap"          # Network scanning tool
     "rsh-client"    # Remote shell client
     "vnc4server"    # Remote desktop service
