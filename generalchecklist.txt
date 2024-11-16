@@ -1,0 +1,20 @@
+Identifying and Mitigating Vulnerabilities:
+  Misconfigurations
+  Outdated Software
+  Malware and Viruses
+  Network Security Issues
+
+Forensic Analysis:
+  User Activity
+  File System Analysis
+  Network Traffic Analysis
+
+Specific Tasks:
+  Patching Systems
+  Configuring Security Settings
+  Identifying and Removing Malware
+  Analyzing Logs
+  Reconfiguring Services
+  Improving Password Policies
+
+Courtesy of @Gemini by Google and @mysticmoose
