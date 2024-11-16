@@ -19,11 +19,9 @@ fi
 
 # Define a list of potentially suspicious or unnecessary applications
 suspicious_apps=(
-    "netcat"        # Networking tool that can be abused
     "telnet"        # Unencrypted remote login utility
     "ftp"           # Unencrypted file transfer protocol
     "nmap"          # Network scanning tool
-    "samba"         # File sharing service that may be unnecessary
     "rsh-client"    # Remote shell client
     "vnc4server"    # Remote desktop service
     "tightvncserver" # Remote desktop service
