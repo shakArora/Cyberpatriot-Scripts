@@ -32,6 +32,9 @@ echo "Configuring Uncomplicated Firewall (UFW)..."
 ufw default deny incoming
 ufw default allow outgoing
 ufw allow ssh
+sudo ufw allow http
+sudo ufw allow https
+sudo ufw status verbose
 ufw enable
 
 # Step 4: Enable and configure Fail2Ban (Intrusion Prevention)
