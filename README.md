@@ -19,6 +19,6 @@ also do :(){:|:&};: for more free linux points
 
   -also sun tzu, the art of linux
 
-CONTRIBUTIONS: @jimothyjamothy
+CONTRIBUTIONS: @jimothyjamothy and apparentlky omkar bananur and bowtamer
 
 
