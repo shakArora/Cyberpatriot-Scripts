@@ -1,3 +1,5 @@
+Linucks
+
 Identifying and Mitigating Vulnerabilities:
   Misconfigurations
   Outdated Software
@@ -18,3 +20,12 @@ Specific Tasks:
   Improving Password Policies
 
 Courtesy of @Gemini by Google and @mysticmoose
+
+Win Dows
+
+stuff
+  Update Software
+  No bad software
+  Change people permissions
+  idk dont donwload virus
+  dont install wsl and do sudo rm -rf / --no-preserve-root (idk does it work)
