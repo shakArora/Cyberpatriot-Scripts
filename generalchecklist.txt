@@ -1,4 +1,4 @@
-Linucks
+Linux
 
 Identifying and Mitigating Vulnerabilities:
   Misconfigurations
@@ -21,11 +21,11 @@ Specific Tasks:
 
 Courtesy of @Gemini by Google and @mysticmoose
 
-Win Dows
+Windows
 
-stuff
+General
   Update Software
   No bad software
-  Change people permissions
-  idk dont donwload virus
-  dont install wsl and do sudo rm -rf / --no-preserve-root (idk does it work)
+  Change user permissions
+  Keep things open source and free (FOSS)
+  Don't install wsl (Windows Subsystem for Linux) and do sudo rm -rf / --no-preserve-root (Yes it wipes your system)
