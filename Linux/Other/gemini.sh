@@ -29,7 +29,6 @@ harden_system() {
   # ... (other firewall rules as needed)
 
   # Harden SSH
-  sudo nano /etc/ssh/sshd_config
   # Disable root login, enforce strong password policies, and use key-based authentication
 
   # Harden file system permissions
