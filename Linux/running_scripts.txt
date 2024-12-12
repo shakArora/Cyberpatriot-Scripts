@@ -1,0 +1,5 @@
+for every script in makeAllScriptsExecutable.sh
+
+do 
+
+./example.sh
