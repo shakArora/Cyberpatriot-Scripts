@@ -17,6 +17,12 @@ systemctl disable bluetooth
 systemctl disable cups
 systemctl disable avahi-daemon
 
+
+sudo apt-get install clamav
+clamscan --remove=yes -i -r ~/
+
+
+
 # Disable kernel modules that are not needed for security
 echo "Disabling unnecessary kernel modules..."
 echo "blacklist ipv6" >> /etc/modprobe.d/blacklist.conf
