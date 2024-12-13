@@ -18,7 +18,6 @@ for port in "${ports_to_check[@]}"; do
         sudo ufw deny $port/tcp
     else
         echo "Port $port is closed."
-    fi
 done
 
 sudo ufw allow 22/tcp
