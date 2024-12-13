@@ -5,6 +5,7 @@ chmod +x incidentresponse.sh
 chmod +x inodeanalysis.sh
 chmod +x malwareanalysis.sh
 chmod +x networkforensics.sh
+chmod +x longestScript.sh
 
 chmod +x Checkinit.sh
 chmod +x Installsudoandapt.sh
