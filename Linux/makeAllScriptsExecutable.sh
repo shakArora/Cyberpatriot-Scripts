@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 chmod +x analyzenetworktraffic.sh
 chmod +x checkfileintergrity.sh
 chmod +x findrecentlogins.sh
