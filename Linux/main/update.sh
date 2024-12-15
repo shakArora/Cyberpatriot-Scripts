@@ -1,4 +1,6 @@
-sudo apt update && sudo apt full-upgrade && sudo apt dist-upgrade
+#!/usr/bin/env bash
+sudo apt install nala
+sudo nala update && sudo apt full-upgrade && sudo apt dist-upgrade
 apt upgrade -a --upgradable
 echo "Basic apt updates complete"
 sudo snap refresh
