@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 $i = 1
 echo "All Admin (Sudo) Users: "
 getent group sudo
