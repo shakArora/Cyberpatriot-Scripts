@@ -8,15 +8,15 @@ sudo apt update && sudo apt upgrade
 #JASRAJ - USERS IF POSSIBLE, IPV4 FORWARDING, UPDATES, OPENSSH, DISABLE FTP ANONYMOUS ACCESS
 
 echo "LightDM (1) or GDM3 (2) or SDDM (3)"
-read -p displaymanager
-if [["$displaymanager" = "1"]]
-then 
-echo "updating LightDM"
-sudo apt install lightdm
-elif
-then
-elif 
-fi
+#read -p displaymanager
+#if [["$displaymanager" = "1"]]
+#then 
+#echo "updating LightDM"
+#sudo apt install lightdm
+#elif
+#then
+#elif 
+#fi
 
 users() {
   $i = 1
