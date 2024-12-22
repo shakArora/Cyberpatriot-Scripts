@@ -1,11 +1,13 @@
 #!/usr/bin/env bash
-sudo apt update && sudo apt upgrade
+sudo apt update && sudo apt full-upgrade
 #This main script will be for putting all of the state round stuff into
 #Default Display Manager
 
 #DUTIES: 
 #SHIVUM - DISPLAY MANAGER AND SERVICES LIKE APACHE/SAMBA
 #JASRAJ - USERS IF POSSIBLE, IPV4 FORWARDING, UPDATES, OPENSSH, DISABLE FTP ANONYMOUS ACCESS
+
+sudo apt install google-chrome-stable
 
 echo "LightDM (1) or GDM3 (2) or SDDM (3)"
 #read -p displaymanager
