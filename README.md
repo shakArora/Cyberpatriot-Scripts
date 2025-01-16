@@ -32,6 +32,10 @@ and templeOS over linux
 
 real NOW we're talking turkey
 
+# @person613 README.md
+
+bro shak -100000000 aura shut it you are not hack arora
+
 yea bro open the chocolate starfish
 
 CONTRIBUTIONS: @jimjam and @obantanur and @bowtamer
