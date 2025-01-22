@@ -1,3 +1,3 @@
 Team Members: 
 
-rhong, vmadala, [sarora](https://github.com/shakarora), [jbhatia](https://github.com/developerc76), [lye](http://github.com/person613), nparra
+rhong (Cisco), vmadala (Server), [sarora](https://github.com/shakarora) (Linux), [jbhatia](https://github.com/developerc76) (Linux), [lye](http://github.com/person613) (Windows), nparra (Sub)
