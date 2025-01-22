@@ -1,34 +1,3 @@
-# @shakArora README.md 
+Team Members: 
 
-From the gyatt
-
-To the sus
-
-To the rizz
-
-To the mew
-
-Yeah, I'm edging in Ohio
-
-Fanum taxing as I goon
-
-I'm a sigma
-
-I hawk tuah on that thang
-
-Call me the rizzler
-
-While I'm watching skibbidy
-
-# @jimjam README.md
-
-windows over mac
-
-and linux over windows
-
-its like the food chain
-
-and templeOS over linux
-
-real NOW we're talking turkey
-
+rhong, vmadala, [sarora](https://github.com/shakarora), [jbhatia](https://github.com/developerc76), [lye](http://github.com/person613), nparra
