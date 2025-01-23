@@ -16,7 +16,7 @@ sudo lynis audit system --quick --detailed > lynis_report.txt
 # sudo mail -s "Lynis Security Audit Report" your_email@example.com < lynis_report.txt
 
 # Optional: Open the report in a text editor
-gedit lynis_report.txt
+nano lynis_report.txt
 
 echo "Checking for suspicious logins..."
 grep "Failed password" /var/log/auth.log
