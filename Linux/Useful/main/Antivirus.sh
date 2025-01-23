@@ -3,7 +3,7 @@
 echo "Welcome to the block1 Linux Antivirus Procedure"
 
 cd /
-sudo apt install clamav clamtk
+sudo apt install clamav -y
 sudo freshclam
 sudo clamscan -r /
 
@@ -34,14 +34,12 @@ echo "Checking for open ports"
 # Check for open ports
 sudo nmap -sT -O localhost
 
-echo "Hardening firewall (UFW)"
-# Harden firewall (UFW)
 sudo ufw default deny incoming
 sudo ufw allow ssh
 sudo ufw enable
 
 echo "Running Fail2Ban (Security Software)"
-# Install and configure Fail2ban
+
 sudo systemctl enable fail2ban
 sudo systemctl start fail2ban
 
