@@ -2,7 +2,7 @@
 echo ok securing passords now
 net accounts /lockoutthreshold:5 /MINPWLEN:8 /MAXPWAGE:75 /MINPWAGE:7 /UNIQUEPW:7
 @echo now manually set complexity requirement to enabled and reversible encryption to disabled
-start secpol.msc /wait
+start secpol.msc /wait 
 
 echo starting firewall stuff
 netsh advfirewall set allprofiles state on
